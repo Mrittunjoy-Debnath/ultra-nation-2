@@ -1,0 +1,61 @@
+export default animalData = [{
+    "id": 1,
+    "first_name": "Prentice",
+    "last_name": "Guerry",
+    "email": "pguerry0@cnet.com",
+    "gender": "Female"
+}, {
+    "id": 2,
+    "first_name": "Greggory",
+    "last_name": "Houliston",
+    "email": "ghouliston1@geocities.jp",
+    "gender": "Genderfluid"
+}, {
+    "id": 3,
+    "first_name": "Kathie",
+    "last_name": "Levis",
+    "email": "klevis2@cnn.com",
+    "gender": "Male"
+}, {
+    "id": 4,
+    "first_name": "Tomi",
+    "last_name": "Hume",
+    "email": "thume3@nyu.edu",
+    "gender": "Male"
+}, {
+    "id": 5,
+    "first_name": "Danette",
+    "last_name": "O'Henery",
+    "email": "dohenery4@fotki.com",
+    "gender": "Male"
+}, {
+    "id": 6,
+    "first_name": "Rachelle",
+    "last_name": "Pellamont",
+    "email": "rpellamont5@guardian.co.uk",
+    "gender": "Female"
+}, {
+    "id": 7,
+    "first_name": "Fayina",
+    "last_name": "Morrow",
+    "email": "fmorrow6@taobao.com",
+    "gender": "Genderqueer"
+}, {
+    "id": 8,
+    "first_name": "Mara",
+    "last_name": "Jillis",
+    "email": "mjillis7@is.gd",
+    "gender": "Male"
+}, {
+    "id": 9,
+    "first_name": "Arden",
+    "last_name": "Proske",
+    "email": "aproske8@timesonline.co.uk",
+    "gender": "Male"
+}, {
+    "id": 10,
+    "first_name": "Meara",
+    "last_name": "Tether",
+    "email": "mtether9@apple.com",
+    "gender": "Male"
+}]
